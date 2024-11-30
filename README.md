@@ -57,7 +57,7 @@ All trades are stored in trades history and will be shown in the table. Table is
 2. Clone this repo
 
 ```bash
-git clone https://github.com/muhammad-rabby/solana-arbitrage-bot && cd solana-arbitrage-bot
+git clone https://github.com/ARBProtocol-Dev-Rabby/solana-arbitrage-bot && cd solana-arbitrage-bot
 
 ```
 
